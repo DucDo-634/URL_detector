@@ -1,0 +1,4 @@
+models/model_lgbm_400k_max.txt\
+.DS_Store
+venv/
+__pycache__/
