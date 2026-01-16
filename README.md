@@ -38,14 +38,18 @@
 ### Step 1: Clone Repository
 ```bash
 git clone <https://github.com/DucDo-634/URL_detector.git>
-```
 
-### Step 2: Install Dependencies
+```
+### Step 2: Models Download
+https://drive.google.com/drive/folders/1xRFuymRNJqBdGX4hBvSyJQ47t9tX6xm2?usp=sharing
+copy all file to models
+
+### Step 3: Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 3: Run
+### Step 4  : Run
 ```bash
 streamlit run app.py
 ```
