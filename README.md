@@ -1,10 +1,10 @@
-# 🛡️ CyberGuard Elite - Advanced Threat Intelligence System
+# 🛡️ CyberGuard  - Advanced Threat Intelligence System
 
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red)
 
-**CyberGuard Elite** is a Next-Gen Hybrid Threat Detection Platform. It integrates **Real-time Threat Intelligence**, **Network Forensics**, and **AI-driven Behavioral Analysis** to identify Phishing URLs and Malware with high precision.
+**CyberGuard ** is a Next-Gen Hybrid Threat Detection Platform. It integrates **Real-time Threat Intelligence**, **Network Forensics**, and **AI-driven Behavioral Analysis** to identify Phishing URLs and Malware with high precision.
 
 ---
 
